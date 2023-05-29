@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--SSAFFY---------------------->
+<h2 style="font-weight:bold;"> In SSAFY 9th </h2>
+<small>2023.01.04. ~</small>
